@@ -10,7 +10,7 @@
 💞️ I’m looking to collaborate on open-source projects related to education and skill development. 
    I'm passionate about giving back to the community and helping others learn and grow as software engineers.
 
-📫 You can reach me via email at camuling@example.com or connect with me on LinkedIn at linkedin.com/in/camuling.
+📫 You can reach me via email at tyger-danny@outlook.com or connect with me on LinkedIn at https://www.linkedin.com/in/daniel-aleixo-21a2631a9/.
     Feel free to reach out if you'd like to discuss coding, projects, or anything related to software engineering!
 
 
