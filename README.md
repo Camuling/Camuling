@@ -29,7 +29,7 @@ I build clean, responsive, and user-focused web applications using HTML, CSS, an
 
 ---
 
-## 📫 Let's Connect
--www.linkedin.com/in/sacarima 
--temu-jin@outlook.com
+### 📫 Let's Connect
+-linkedin: www.linkedin.com/in/sacarima 
+-Email: temu-jin@outlook.com
 - Whatsapp: +264858038412
