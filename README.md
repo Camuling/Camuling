@@ -1,27 +1,34 @@
-- 👋  Hi, I’m Daniel Aleix (@Camuling)
-  
-- 👀  I’m interested in software development, particularly in web and mobile app development.
-      I'm fascinated by creating elegant and efficient solutions to real-world problems through code.
+# Hi, I'm Daniel Aleixo 👋
 
-🌱   I’m currently learning about machine learning and artificial intelligence. 
-     I believe that these technologies are shaping the future of software engineering,
-     and I'm excited to explore how they can be integrated into various applications.
+Junior Frontend Developer with a background in customer support and sales, bringing strong communication skills and problem-solving ability into tech.
 
-💞️   I’m looking to collaborate on open-source projects related to education and skill development. 
-     I'm passionate about giving back to the community and helping others learn and grow as software engineers.
+I build clean, responsive, and user-focused web applications using HTML, CSS, and JavaScript. I enjoy turning ideas into functional, interactive digital experiences.
 
-📫   You can reach me via email at tyger-danny@outlook.com or connect with me on LinkedIn at https://www.linkedin.com/in/daniel-aleixo-21a2631a9/.
-      Feel free to reach out if you'd like to discuss coding, projects, or anything related to software engineering!
+---
 
+## 🚀 Technical Skills
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- API Integration
+- Git & GitHub
 
+---
 
+## 💼 Professional Background
+- Customer Support Representative – Experienced in handling inquiries, resolving technical issues, and maintaining customer satisfaction.
+- Sales Experience – Skilled in communication, persuasion, and understanding client needs.
+- Remote Work Ready – Comfortable working independently, managing time effectively, and collaborating in remote environments.
 
+---
 
+## 📂 Featured Projects
+- 🍹 Cocktail App – Web application using a public API to search and explore cocktail recipes.
+- 💼 Portfolio Website – Personal responsive portfolio with animations and automatic dark/light mode.
 
-Regenerate
+---
 
-
-<!---
-Camuling/Camuling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Let's Connect
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: your@email.com
