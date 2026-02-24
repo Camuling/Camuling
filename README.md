@@ -43,7 +43,7 @@ I am open to **remote opportunities** and eager to grow in the tech industry.
     - Responsive Web Design  
     - Technical Support  
     - Problem Solving  
-    - ustomer-Focused Communication  
+    - Customer-Focused Communication  
 
  📫 Contact Me
 
