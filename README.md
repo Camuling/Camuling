@@ -1,1 +1,53 @@
-# 👋 Hi, I'm Camuling Junior Software Developer focused on Frontend Development, Technical Support, and AI Evaluation Projects. Open to Remote Opportunities. --- ## 🚀 Featured Project: AI Interface Evaluation ### 📌 Overview This project evaluates AI-generated responses in web development and customer support scenarios. ### 🎯 Objectives - Test AI performance - Identify strengths and weaknesses - Provide structured feedback ### 🛠 Tools - ChatGPT - VS Code - Git & GitHub 📂 Repository: https://github.com/Camuling/ai-interface-evaluation --- ## 💻 Other Projects ### 🍹 Cocktail App A web app that displays cocktail recipes using an API. 🔗 Link: (paste your repo link here) ### 📱 Portfolio Website Personal portfolio built with HTML, CSS, and JavaScript. 🔗 Link: (paste link) ### 🧮 Calculator App Simple calculator built in JavaScript. 🔗 Link: (paste link) (Add more if you have) --- ## 🧠 Skills - HTML5, CSS3, JavaScript - Git & GitHub - Responsive Design - Technical Support - Problem Solving --- ## 📫 Contact - LinkedIn: https://www.linkedin.com/in/sacarima - Email: temu-jin@outlook.com
+ 👋 Hi, I'm Daniel Aleixo  
+ Junior Software Developer | Frontend | Technical Support | AI Evaluation
+
+I am a passionate Junior Software Developer focused on building user-friendly web applications, providing technical support, and working on AI evaluation projects.  
+I am open to **remote opportunities** and eager to grow in the tech industry.
+
+ 🚀 Featured Project: AI Interface Evaluation
+
+ 📌 Overview
+    This project evaluates AI-generated responses in web development and customer support scenarios.
+
+ 🎯 Objectives
+     - Test AI performance  
+     - Identify strengths and weaknesses  
+     - Provide structured feedback  
+
+ 🛠 Tools & Technologies 
+    - Visual Studio Code  
+    - Git & GitHub  
+
+📂 **Repository:**  
+👉   https://github.com/Camuling/ai-interface-evaluation
+
+
+ 💻 Other Projects
+
+ 🍹 Cocktail App
+     A web application that displays cocktail recipes using a public API.  
+🔗  https://github.com/Camuling/Coktail-aApp
+
+ 📱 Portfolio Website
+     Personal portfolio built with HTML, CSS, and JavaScript.  
+🔗  https://github.com/Camuling/My-portfolio-web?tab=readme-ov-file
+
+ 🧮 Calculator App
+     A simple calculator built using JavaScript.  
+🔗  https://github.com/Camuling/your-(------)
+
+ 🧠 Skills
+
+    - HTML5, CSS3, JavaScript  
+    - Git & GitHub  
+    - Responsive Web Design  
+    - Technical Support  
+    - Problem Solving  
+    - ustomer-Focused Communication  
+
+ 📫 Contact Me
+
+    - 💼 LinkedIn: https://www.linkedin.com/in/sacarima  
+    - 📧 Email: temu-jin@outlook.com  
+
+⭐ Feel free to explore my repositories and connect with me!
