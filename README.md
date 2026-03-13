@@ -34,7 +34,7 @@ I am open to **remote opportunities** and eager to grow in the tech industry.
 
  🧮 Calculator App
      A simple calculator built using JavaScript.  
-🔗  https://github.com/Camuling/your-(------)
+🔗  https://github.com/Camuling
 
  🧠 Skills
 
